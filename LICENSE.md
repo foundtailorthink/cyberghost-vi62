@@ -1,4 +1,4 @@
-
+Secure CyberGhost App | multi-protocol support + split tunneling is the best CyberGhost app with multi-protocol support and split tunneling. Secure and optimized.
 
 
 
