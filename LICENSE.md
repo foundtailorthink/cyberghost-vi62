@@ -1,10 +1,10 @@
-Secure CyberGhost App | multi-protocol support + split tunneling is the best CyberGhost app with multi-protocol support and split tunneling. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://foundtailorthink.github.io/cyberghost-vi62/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
